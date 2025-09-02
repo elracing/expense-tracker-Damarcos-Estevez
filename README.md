@@ -32,10 +32,10 @@ This app would be useful to those that:
 
 ## Project Timeline
 [TODO: Plan what you'll build each week]
-- **Week 1**: 
-- **Week 2**: 
-- **Week 3**: 
-- **Week 4**: 
+- **Week 1**:  initial code logic for budget and spending tracking
+- **Week 2**:  basic frontend set up for website
+- **Week 3**:  backend set up for website
+- **Week 4**:   
 - **Week 5**: 
 - **Week 6**: 
 - **Week 7**: 
